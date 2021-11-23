@@ -8,13 +8,15 @@
  * @copyright Copyright (c) 2021
  * 
  */
-#include <LiquidCrystal.h>
-#include <SoftwareSerial.h>
+#ifndef __AUTOMATION_H
+#define __AUTOMATION_H
+void send_deviceStatus();
+void buzzer();
+#endif
 
 
-#define bulb_1Pin A0
-#define bulb_2Pin A1
-#define bulb_3Pin A2
-#define fanPin A3
-#define buzzerPin A4
+
+
+
+
 
