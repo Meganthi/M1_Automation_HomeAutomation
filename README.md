@@ -7,6 +7,9 @@ Codacy | Code Quality | CI | Unity
 |||[![Code Quality - Static Code - Cppcheck](https://github.com/Meganthi/M1_Automation_HomeAutomation/actions/workflows/check.yml/badge.svg)](https://github.com/Meganthi/M1_Automation_HomeAutomation/actions/workflows/check.yml)
 ||||[![Code Quality - Static Code - Cppcheck](https://github.com/Meganthi/M1_Automation_HomeAutomation/actions/workflows/check.yml/badge.svg)](https://github.com/Meganthi/M1_Automation_HomeAutomation/actions/workflows/check.yml)
 
+![image](https://user-images.githubusercontent.com/94211854/143277302-ac178566-c0dc-448b-bf66-5ee8fec99c6c.png)
+
+
 
 
 
